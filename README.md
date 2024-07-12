@@ -31,8 +31,10 @@ Listings, including full descriptions and average review score Reviews, includin
 
 
 # Neighbourhoods Page
-![image](https://github.com/user-attachments/assets/98b7b9a9-2be4-42a0-b76a-bd44f3b15e0d)
+![image](https://github.com/user-attachments/assets/92578c64-546f-4701-bd0b-07ed307c5e97)
 
 
 # KPI Page
 ![image](https://github.com/user-attachments/assets/b38bc158-4dc1-42c3-b99a-376f9a860eac)
+
+![image](https://github.com/user-attachments/assets/fc60c134-3b39-4a31-b4e8-b114cbdce0f1)
