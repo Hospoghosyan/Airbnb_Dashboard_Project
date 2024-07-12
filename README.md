@@ -66,17 +66,40 @@ The listings page includes filters, a table, and a map. The size of the bubbles 
 
 ![image](https://github.com/user-attachments/assets/a1557bb3-22ee-4181-83b8-ae279db3daf2)
 
-### When a bubble is clicked, the table displays detailed information about the corresponding listing. Additionally, hovering over a bubble reveals information for that data point through a tooltip.
+When a bubble is clicked, the table displays detailed information about the corresponding listing. Additionally, hovering over a bubble reveals information for that data point through a tooltip.
 
 * __Tooltip:__ Provides information about the listing when hovering over a bubble on the map.
 
 ![image](https://github.com/user-attachments/assets/1adfe1bf-6b0f-4ffb-97a2-a49d6d55324e)
 
 ## Neighbourhoods Page
+
 ![image](https://github.com/user-attachments/assets/92578c64-546f-4701-bd0b-07ed307c5e97)
 
-
 ## KPI Page
+The KPI page features filters, key metrics, and a line chart, providing insights into the financial performance and review trends of the listings.
+
+### Filters:
+
+* Cancellation Policy
+* Neighborhood
+* Room Type
+* Availability (0 to 365 days)
+* Price ($50 to $1200)
+
+### Key Metrics:
+* Average Revenue per Listing: $7.72K
+* RevPAL (Revenue per Available Listing): $79.71K
+* Average Price per Night: $625
+
+### Visualization:
+
+* __Total Last Review by Year:__ A line chart displaying the total number of last reviews by year, highlighting trends over time. The chart shows significant peaks in the years 2019 and 2020.
+
 ![image](https://github.com/user-attachments/assets/b38bc158-4dc1-42c3-b99a-376f9a860eac)
+
+When you hover over each bar, a tooltip appears, explaining the KPI and showing a detailed chart of KPI for each neighbourhood group. This feature is created using the tooltip functionality.
+
+* __Tooltip:__ Provides information about the KPI when hovering over a card.
 
 ![image](https://github.com/user-attachments/assets/fc60c134-3b39-4a31-b4e8-b114cbdce0f1)
