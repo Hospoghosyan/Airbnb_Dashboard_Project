@@ -64,7 +64,7 @@ The listings page includes filters, a table, and a map. The size of the bubbles 
 * __Map:__ Displays bubbles representing the average house price at different locations. The size of the bubble correlates with the price.
 * __Table:__ Shows detailed information about the listings, including ID, Name, Host Name, Host ID, Price, Minimum Nights, Availability, Review Rate Number, and Last Review.
 
-![image](https://github.com/user-attachments/assets/a1557bb3-22ee-4181-83b8-ae279db3daf2)
+![image](https://github.com/user-attachments/assets/f1559115-bc14-4229-84f6-038abea0528d)
 
 When a bubble is clicked, the table displays detailed information about the corresponding listing. Additionally, hovering over a bubble reveals information for that data point through a tooltip.
 
