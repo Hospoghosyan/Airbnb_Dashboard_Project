@@ -22,14 +22,17 @@ Listings, including full descriptions and average review score Reviews, includin
 
 ## Main Page
 ### Filters and primary visualizations are shown on the main page, which give an opportunity to get an idea of ​​the general view of the data. In addition to the visualizations, there are also cards that show, for example, Total Reviews, Total Houses, Average of Reviews per Month
+
 ![image](https://github.com/user-attachments/assets/5e76a76c-e5b0-4c44-8a81-8b5b5f2d6b84)
 
-
 ## Listings Page
+### The listings page has filters, a table and a map. The size of the Bubble on the map shows the average house price at that location
+
 ![image](https://github.com/user-attachments/assets/a1557bb3-22ee-4181-83b8-ae279db3daf2)
 
-![image](https://github.com/user-attachments/assets/527ea2ea-963f-44f8-afa5-e3d0da7ea465)
+### If we click on Bubble, the table will display information about this datapoint and if we just hold the mouse on the Bubble, information will also be displayed for the given datapoint, which by the way I created with a tooltip
 
+![image](https://github.com/user-attachments/assets/527ea2ea-963f-44f8-afa5-e3d0da7ea465)
 
 ## Neighbourhoods Page
 ![image](https://github.com/user-attachments/assets/92578c64-546f-4701-bd0b-07ed307c5e97)
