@@ -73,6 +73,23 @@ When a bubble is clicked, the table displays detailed information about the corr
 ![image](https://github.com/user-attachments/assets/1adfe1bf-6b0f-4ffb-97a2-a49d6d55324e)
 
 ## Neighbourhoods Page
+The Neighbourhoods Page features multiple visualizations and insights into the performance of various neighbourhoods in the Airbnb market.
+
+### Visualizations:
+
+* Top 5: By Average Price:
+  - This chart shows the top 5 neighbourhoods based on the average price and rating. It highlights the relationship between price and guest ratings.
+
+* Top 5: By Average Review:
+  - This bar chart displays the top 5 neighbourhoods with the highest average review scores, helping to identify areas with the best guest feedback.
+
+* Top 10: With Most Listings:
+  - A bar chart illustrating the top 10 neighbourhoods with the highest number of listings, indicating the most popular areas for Airbnb properties.
+
+* Availability across Neighbourhoods:
+  - This chart shows the availability of listings across different neighbourhoods, providing insights into the supply of Airbnb properties in each area.
+
+This dashboard offers a comprehensive overview of key metrics and trends across various neighbourhoods, aiding in decision-making and strategic planning.
 
 ![image](https://github.com/user-attachments/assets/92578c64-546f-4701-bd0b-07ed307c5e97)
 
