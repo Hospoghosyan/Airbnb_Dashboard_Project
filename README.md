@@ -19,3 +19,5 @@ Listings, including full descriptions and average review score Reviews, includin
 
 
 ## First, I cleaned the data using Python and handled missing values.Then through Python I connected to the Postgresql database, created tables there, and then in PowerBi I connected to the PostgreSQL database and created a Dashboard.
+
+![image](https://github.com/user-attachments/assets/d900c73c-c1e9-4740-8867-6a8385666230)
