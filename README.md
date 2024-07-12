@@ -1,5 +1,5 @@
 # As a BI Analyst, i aim to provide a comprehensive, user-friendly interface that integrates various data sources, delivering actionable insights that align with the company's objectives and drive continuous improvement.
-# First, I cleaned the data using Python and handled missing values.Then through Python I connected to the Postgresql database, created tables there, and then in PowerBi I connected to the PostgreSQL database and created a Dashboard.
+### First, I cleaned the data using Python and handled missing values.Then through Python I connected to the Postgresql database, created tables there, and then in PowerBi I connected to the PostgreSQL database and created a Dashboard.
 
 
 #### About Dataset
