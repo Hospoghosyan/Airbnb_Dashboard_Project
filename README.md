@@ -25,19 +25,19 @@ The main page features filters and primary visualizations that provide an overvi
 
 ### Filters:
 
-Cancellation Policy
-Neighborhood
-Room Type
-Availability (0 to 365 days)
-Price ($50 to $1200)
+* Cancellation Policy
+* Neighborhood
+* Room Type
+* Availability (0 to 365 days)
+* Price ($50 to $1200)
 ### Key Metrics:
 
-Total Reviews: 3M
-Total Houses: 102.06K
-Average of Reviews per Month: 1,16
+* Total Reviews: 3M
+* Total Houses: 102.06K
+* Average of Reviews per Month: 1,16
 ### Visualizations:
 
-* Average of Price by Neighborhood: A bar chart showing the average prices in various neighborhoods.
+* __Average of Price by Neighborhood:__  A bar chart showing the average prices in various neighborhoods.
 * Total Neighborhoods by Group: A pie chart displaying the distribution of neighborhoods by group (Manhattan, Queens, Staten Island, Bronx, Brooklyn).
 * Top 10 Houses by Total Reviews: A bar chart listing the top 10 houses based on the number of reviews.
 * Total Listing by Neighborhood and Room Type: A bar chart showing the distribution of listings by neighborhood and room type (Entire home/apt, Hotel room, Private room, Shared room).
