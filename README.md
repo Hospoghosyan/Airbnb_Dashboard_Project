@@ -38,11 +38,11 @@ The main page features filters and primary visualizations that provide an overvi
 ### Visualizations:
 
 * __Average of Price by Neighborhood:__  A bar chart showing the average prices in various neighborhoods.
-* Total Neighborhoods by Group: A pie chart displaying the distribution of neighborhoods by group (Manhattan, Queens, Staten Island, Bronx, Brooklyn).
-* Top 10 Houses by Total Reviews: A bar chart listing the top 10 houses based on the number of reviews.
-* Total Listing by Neighborhood and Room Type: A bar chart showing the distribution of listings by neighborhood and room type (Entire home/apt, Hotel room, Private room, Shared room).
-* Average Price by Neighborhood Group and Room Type: A table showing average prices by neighborhood group and room type.
-* Total Houses by the Construction Year: A bar chart showing the total number of houses built per year.
+* __Total Neighborhoods by Group:__ A pie chart displaying the distribution of neighborhoods by group (Manhattan, Queens, Staten Island, Bronx, Brooklyn).
+* __Top 10 Houses by Total Reviews:__ A bar chart listing the top 10 houses based on the number of reviews.
+* __Total Listing by Neighborhood and Room Type:__ A bar chart showing the distribution of listings by neighborhood and room type (Entire home/apt, Hotel room, Private room, Shared room).
+* __Average Price by Neighborhood Group and Room Type:__ A table showing average prices by neighborhood group and room type.
+* __Total Houses by the Construction Year:__ A bar chart showing the total number of houses built per year.
 
 ![image](https://github.com/user-attachments/assets/5e76a76c-e5b0-4c44-8a81-8b5b5f2d6b84)
 
