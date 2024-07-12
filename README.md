@@ -18,6 +18,9 @@ The following Airbnb activity is included in this New York dataset:
 Listings, including full descriptions and average review score Reviews, including unique id for each reviewer and detailed comments Calendar, including listing id and the price and availability for that day
 
 
+
+
+
 ## First, I cleaned the data using Python and handled missing values.Then through Python I connected to the Postgresql database, created tables there, and then in PowerBi I connected to the PostgreSQL database and created a Dashboard.
 
 ## Main Page
