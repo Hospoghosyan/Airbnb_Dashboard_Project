@@ -47,11 +47,25 @@ The main page features filters and primary visualizations that provide an overvi
 ![image](https://github.com/user-attachments/assets/5e76a76c-e5b0-4c44-8a81-8b5b5f2d6b84)
 
 ## Listings Page
-### The listings page has filters, a table and a map. The size of the Bubble on the map shows the average house price at that location
+The listings page includes filters, a table, and a map. The size of the bubbles on the map represents the average house price at that location.
+
+### Filters:
+
+* Neighborhood
+* Room Type
+* Number of Reviews (slider from 0 to 1024)
+* Price ($50 to $1200)
+
+### Visualizations:
+
+* __Map:__ Displays bubbles representing the average house price at different locations. The size of the bubble correlates with the price.
+* __Table:__ Shows detailed information about the listings, including ID, Name, Host Name, Host ID, Price, Minimum Nights, Availability, Review Rate Number, and Last Review.
 
 ![image](https://github.com/user-attachments/assets/a1557bb3-22ee-4181-83b8-ae279db3daf2)
 
-### If we click on Bubble, the table will display information about this datapoint and if we just hold the mouse on the Bubble, information will also be displayed for the given datapoint, which by the way I created with a tooltip
+### When a bubble is clicked, the table displays detailed information about the corresponding listing. Additionally, hovering over a bubble reveals information for that data point through a tooltip.
+
+* __Tooltip:__ Provides information about the listing when hovering over a bubble on the map.
 
 ![image](https://github.com/user-attachments/assets/1adfe1bf-6b0f-4ffb-97a2-a49d6d55324e)
 
