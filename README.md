@@ -20,4 +20,19 @@ Listings, including full descriptions and average review score Reviews, includin
 
 ## First, I cleaned the data using Python and handled missing values.Then through Python I connected to the Postgresql database, created tables there, and then in PowerBi I connected to the PostgreSQL database and created a Dashboard.
 
-![image](https://github.com/user-attachments/assets/d900c73c-c1e9-4740-8867-6a8385666230)
+# Main Page
+![image](https://github.com/user-attachments/assets/5e76a76c-e5b0-4c44-8a81-8b5b5f2d6b84)
+
+
+# Listings Page
+![image](https://github.com/user-attachments/assets/a1557bb3-22ee-4181-83b8-ae279db3daf2)
+
+![image](https://github.com/user-attachments/assets/527ea2ea-963f-44f8-afa5-e3d0da7ea465)
+
+
+# Neighbourhoods Page
+![image](https://github.com/user-attachments/assets/98b7b9a9-2be4-42a0-b76a-bd44f3b15e0d)
+
+
+# KPI Page
+![image](https://github.com/user-attachments/assets/b38bc158-4dc1-42c3-b99a-376f9a860eac)
