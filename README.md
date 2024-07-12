@@ -21,7 +21,7 @@ Listings, including full descriptions and average review score Reviews, includin
 ## First, I cleaned the data using Python and handled missing values.Then through Python I connected to the Postgresql database, created tables there, and then in PowerBi I connected to the PostgreSQL database and created a Dashboard.
 
 ## Main Page
-#### filters and primary visualizations are shown on the main page, which give an opportunity to get an idea of ​​the general view of the data. In addition to the visualizations, there are also cards that show, for example, Total Reviews, Total Houses, Average of Reviews per Month
+### Filters and primary visualizations are shown on the main page, which give an opportunity to get an idea of ​​the general view of the data. In addition to the visualizations, there are also cards that show, for example, Total Reviews, Total Houses, Average of Reviews per Month
 ![image](https://github.com/user-attachments/assets/5e76a76c-e5b0-4c44-8a81-8b5b5f2d6b84)
 
 
